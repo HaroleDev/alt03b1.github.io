@@ -12,8 +12,7 @@
 	</dependencies> -->
 	<shortDescription>MacOS Big Sur Icons ported to iOS</shortDescription>
 	<descriptionlist>
-		<description>This theme ports over the MacOS Big Sur</description>
-		<description>icons to iOS</description>
+		<description>This theme ports over the MacOS Big Sur icons to iOS</description>
 <!--		<description><![CDATA[
 		You can also have<br/>
 		a multi-line item.
@@ -32,8 +31,9 @@
 	</screenshots> -->
 	<changelog>
 		<change>Initial Release</change>
-<!--		<change>x</change>
-		<change>x</change> -->
+		<change>multi
+						line
+	  				test</change>
 	</changelog>
 	<links>
 		<link>
