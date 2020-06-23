@@ -31,9 +31,7 @@
 	</screenshots> -->
 	<changelog>
 		<change>Initial Release</change>
-		<change>multi
-						line
-	  				test</change>
+		<!--<change></change>-->
 	</changelog>
 	<links>
 		<link>
