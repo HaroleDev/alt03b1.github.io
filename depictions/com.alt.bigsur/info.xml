@@ -7,9 +7,9 @@
 			<miniOS>7.0</miniOS>
 		</firmware>
 	</compatibility>
-<!--	<dependencies>
-		<package>x</package>
-	</dependencies> -->
+    <dependencies>
+		<package>snowboard</package>
+	</dependencies>
 	<shortDescription>MacOS Big Sur Icons ported to iOS</shortDescription>
 	<descriptionlist>
 		<description>This theme ports over the MacOS Big Sur icons to iOS</description>
@@ -35,8 +35,8 @@
 	</changelog>
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
+			<name>/u/alt03b1</name>
+			<url>https://www.reddit.com/u/alt03b1</url>
 			<iconclass>fa fa-reddit</iconclass>
 		</link>
 	</links>
