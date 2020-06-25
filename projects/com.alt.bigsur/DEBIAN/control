@@ -1,0 +1,9 @@
+Package: com.alt.bigsur
+Name: Big Sur
+Architecture: iphoneos-arm
+Description: MacOS Big Sur Icons ported to iOS
+Maintainer: alt03b1 
+Author: alt03b1 
+Section: Themes
+Depiction: https://alt03b1.github.io/depictions/?p=com.alt.bigsur
+Version: 1.0
