@@ -2,7 +2,7 @@ Package: com.alt.bigsur
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: alt03b1
-Filename: ./debs/com.alt.bigsur.deb
+Filename: debs/com.alt.bigsur.deb
 Size: 719208
 MD5sum: 636e139f14f30660e9633689ba85d978
 SHA1: 8079a66e123baa4928e88db09b876d656c76134a
