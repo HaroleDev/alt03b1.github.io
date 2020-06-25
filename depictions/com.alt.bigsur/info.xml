@@ -7,9 +7,9 @@
 			<miniOS>7.0</miniOS>
 		</firmware>
 	</compatibility>
-    <dependencies>
-        <package>com.spark.snowboard</package>
-	</dependencies>
+<!--    <dependencies>
+        <package></package>
+	</dependencies> -->
 	<shortDescription>MacOS Big Sur Icons ported to iOS</shortDescription>
 	<descriptionlist>
 		<description>This theme ports over the MacOS Big Sur icons to iOS</description>
