@@ -3,10 +3,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: alt03b1
 Filename: debs/com.alt.bigsur.deb
-Size: 719208
-MD5sum: 636e139f14f30660e9633689ba85d978
-SHA1: 8079a66e123baa4928e88db09b876d656c76134a
-SHA256: 2cf30b0c4a71257eb88c9b4736538e307679283991a554aa0ee0cf6004cd437c
+Size: 4793008
+MD5sum: 6dd952cc98d7c31a0576211bf1bd7cad
+SHA1: a1643e3169a18f96e1f48cb4bfa118a5becf3c86
+SHA256: 7b4b32b77308089b5ccfa4ee5569bf3b78af588a61e6ae5e9ed54ba610ceee7a
 Section: Themes
 Description: MacOS Big Sur Icons ported to iOS
 Author: alt03b1
