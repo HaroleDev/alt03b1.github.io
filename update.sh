@@ -8,7 +8,8 @@ find . -name '*.DS_Store' -type f -delete
 #debs
 #big sur
 dpkg-deb -b ~/Documents/GitHub/alt03b1.github.io/projects/com.alt.bigsur
+mv ~/Documents/GitHub/alt03b1.github.io/projects/com.alt.bigsur.deb ~/Documents/Github/alt03b1.github.io/debs
 
 #packages
-dpkg-scanpackages debs . > Packages
-bzip2 -fks Packages
+dpkg-scanpackages -m ./debs . > Packages
+bzip2 Packages
